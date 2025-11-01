@@ -1,0 +1,7 @@
+### Teks Deskripsi Koneksi:
+- ESP32 5V → MQ-2 VCC
+- ESP32 GND → MQ-2 GND
+- ESP32 GPIO34 → MQ-2 AOUT
+- ESP32 GPIO18 → Buzzer (+)
+- Buzzer (-) → GND
+- LED (jika eksternal) → GPIO2 + resistor 220Ω
